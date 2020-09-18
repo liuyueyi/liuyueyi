@@ -22,10 +22,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyueyi&layout=compact" />
 </a>
 
+<!--
 <a href="https://github.com/liuyueyi/quick-media">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=quick-media" />
 </a>    
 <a href="https://github.com/liuyueyi/spring-boot-demo">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=spring-boot-demo" />
 </a>
+-->
