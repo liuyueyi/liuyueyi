@@ -14,19 +14,24 @@
 - Python爬虫新手 
 - React前端客串开发 
 - Android尝鲜中
+- 技术交流群：关注微信公众号`一灰灰blog`，回复"加群"
+
 
 <a href="https://github.com/liuyueyi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuyueyi&show_icons=true&include_all_commits=true" alt="一灰灰Blog" />
 </a>
+
+<br/>
+<!--
 <a href="https://github.com/liuyueyi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyueyi&layout=compact" />
 </a>
+-->
 
-<!--
+
 <a href="https://github.com/liuyueyi/quick-media">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=quick-media" />
 </a>    
 <a href="https://github.com/liuyueyi/spring-boot-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=spring-boot-demo" />
 </a>
--->
