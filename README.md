@@ -19,14 +19,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 </div>
 
 #  🙋 Hello
@@ -37,7 +29,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-一灰灰的技术栈, 欢迎访问个人站点 [blog](https://blog.hhui.top/) [spring-blog](http://spring.hhui.top/)
+一灰灰的技术栈, 欢迎访问 [一灰灰的学习站点](https://hhui.top/)   [LLM大模型应用开发系列教程](https://ppai.top)
 
 <p>&emsp;&emsp;大家好，我是一灰灰。</p>
 <p>&emsp;&emsp;Java后端资深搬运工。</p>
@@ -54,31 +46,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<div align="center" >
-
-```mermaid
-mindmap
-  root((一灰灰Blog))
-    技术栈
-      Java后端
-      Python爬虫
-      React/Vue前端
-      服务器运维
-    履历
-      万人大厂
-      千人中厂
-      创业团队
-      国企
-    爱好
-      小说
-      游戏
-      躺
-    阅读
-      史书
-      计算机技术
-```
-
-<!--  skill badge 技能徽章 -->
 💪 技术栈
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -126,37 +93,25 @@ mindmap
 
 <div align="center" >
 
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=liuyueyi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuyueyi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liuyueyi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<!-- <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuyueyi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+<!-- <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liuyueyi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br> -->
 
 <!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/liuyueyi/quick-media">
+<!-- <a href="https://github.com/liuyueyi/quick-media">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=quick-media" />
 </a>    
 <a href="https://github.com/liuyueyi/spring-boot-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=spring-boot-demo" />
 </a>
+
+<a href="https://github.com/liuyueyi/spring-ai-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liuyueyi&repo=spring-ai-demo" />
+</a> -->
 <br><br>
   
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-<img align="center" src="https://streak-stats.demolab.com?user=liuyueyi&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
